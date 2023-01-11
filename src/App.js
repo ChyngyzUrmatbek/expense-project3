@@ -11,7 +11,7 @@ function App() {
   const [expenses,setExpenses]=useState([
     {
     
-      title:'Туалетная бумага',
+      title:'A4 Бумага',
       price:300 ,
       date:new Date()
     },
