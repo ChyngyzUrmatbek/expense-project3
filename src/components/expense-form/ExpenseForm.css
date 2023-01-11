@@ -1,0 +1,18 @@
+.expense-form{
+    width: 780px;
+    margin: 0 auto;
+    background-color:#AD9BE9 ; 
+    margin-top: 15rem;
+    height: 287px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   
+}
+.btn-wrapp{
+    width: 100%;
+    display: flex;
+    justify-content:flex-end;
+}
+

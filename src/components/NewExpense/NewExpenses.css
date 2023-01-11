@@ -1,0 +1,10 @@
+.new-expenses-box{
+    width: 780px;
+    height: 91px;
+    margin: 0 auto;
+    background-color:#AD9BE9 ;
+    border-radius: 10px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}

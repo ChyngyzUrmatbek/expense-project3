@@ -1,0 +1,14 @@
+.form-input {
+  
+   display: flex;
+   flex-direction:column;
+   margin: 0 1rem;
+}
+.input{
+    
+    width: 340px;
+    margin-top: 7px;
+    height: 39px;
+    border-radius: 8px; 
+    border: Solid #FFFFFF;
+} 
